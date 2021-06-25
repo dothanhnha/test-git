@@ -20,8 +20,4 @@ public class NewFuction {
     public int getSub(int a, int b, int c, int d){
         return a+b+c+d;
     }
-
-    public int rightFunction(){
-        return 1;
-    }
 }
