@@ -1,6 +1,11 @@
 package com.example.myapp;
 
 public class NewFuction {
+
+    public int getValue(int a){
+        return a;
+    }
+
     public int getSum(int a, int b){
         return a+b;
     }
