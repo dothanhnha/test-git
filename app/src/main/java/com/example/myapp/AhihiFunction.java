@@ -9,4 +9,8 @@ public class AhihiFunction {
         return a-b;
     }
 
+    public int anotherFunctionMasterBeforeMerge(){
+        return 4;
+    }
+
 }
