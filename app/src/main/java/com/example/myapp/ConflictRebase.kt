@@ -2,6 +2,6 @@ package com.example.myapp
 
 class ConflictRebase {
     fun function() : String{
-        return "master1"
+        return "master2"
     }
 }
