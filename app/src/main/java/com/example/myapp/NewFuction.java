@@ -6,6 +6,10 @@ public class NewFuction {
         return a;
     }
 
+    public int newFunctionBeforeMergeOnBranch(int a){
+        return a;
+    }
+
     public int getSum(int a, int b){
         return a+b;
     }
