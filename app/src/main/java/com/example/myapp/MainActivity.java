@@ -9,6 +9,9 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        String a = "amend commit";
         setContentView(R.layout.activity_main);
     }
+
+
 }
