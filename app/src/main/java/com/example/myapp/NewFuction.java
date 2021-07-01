@@ -31,6 +31,6 @@ public class NewFuction {
     }
 
     public String toString(){
-        return "Test";
+        return "Test TEMP BRANCH";
     }
 }
