@@ -22,15 +22,4 @@ public class NewFuction {
         return a+b+c;
     }
 
-    public int getSub(int a, int b, int c, int d, int f){
-        return a+b+c+d+f;
-    }
-
-    public int getSub(int a, int b, int c, int d){
-        return a+b+c+d;
-    }
-
-    public String toString(){
-        return "Test TEMP BRANCH example2";
-    }
 }
