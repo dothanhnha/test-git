@@ -25,4 +25,17 @@ public class AhihiFunction {
         return 4;
     }
 
+
+    public int commit5(){
+        return 4;
+    }
+
+    public int commit6(){
+        return 4;
+    }
+
+    public int commit7(){
+        return 4;
+    }
+
 }
