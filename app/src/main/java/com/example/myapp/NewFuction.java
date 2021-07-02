@@ -22,7 +22,7 @@ public class NewFuction {
         return a+b+c;
     }
 
-    public int conflictRebase(int a, int b, int c){
+    public int onRebaseBranch(int a, int b, int c){
         return a+b;
     }
 }
