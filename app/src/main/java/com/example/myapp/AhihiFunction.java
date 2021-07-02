@@ -13,4 +13,8 @@ public class AhihiFunction {
         return 4;
     }
 
+    public int commit1(){
+        return 4;
+    }
+
 }
