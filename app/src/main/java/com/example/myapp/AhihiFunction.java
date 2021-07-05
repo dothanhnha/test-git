@@ -25,4 +25,8 @@ public class AhihiFunction {
         return 4;
     }
 
+    public int rebase5_1(){
+        return 4;
+    }
+
 }
