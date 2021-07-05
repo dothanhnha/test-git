@@ -26,7 +26,7 @@ public class NewFuction {
         return a+b;
     }
 
-    public int beforeCheckoutRebase(int a, int b, int c){
+    public int changedOnBranchRebase(int a, int b, int c){
         return a+b;
     }
 }
