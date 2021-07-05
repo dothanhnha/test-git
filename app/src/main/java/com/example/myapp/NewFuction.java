@@ -29,4 +29,8 @@ public class NewFuction {
     public int resolvedConflict(int a, int b, int c){
         return a+b;
     }
+
+    public int rebase3(int a, int b, int c){
+        return a+b;
+    }
 }
