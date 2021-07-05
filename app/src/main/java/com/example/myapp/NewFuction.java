@@ -26,7 +26,7 @@ public class NewFuction {
         return a+b;
     }
 
-    public int changedOnBranchRebase(int a, int b, int c){
+    public int resolvedConflict(int a, int b, int c){
         return a+b;
     }
 }
