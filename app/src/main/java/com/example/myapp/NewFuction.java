@@ -42,4 +42,8 @@ public class NewFuction {
         return 4;
     }
 
+    public int master_1_merge(){
+        return 4;
+    }
+
 }
