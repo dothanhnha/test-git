@@ -38,4 +38,8 @@ public class NewFuction {
         return 4;
     }
 
+    public int master_2_rebase5(){
+        return 4;
+    }
+
 }
