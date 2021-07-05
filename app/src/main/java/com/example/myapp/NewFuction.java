@@ -25,4 +25,8 @@ public class NewFuction {
     public int resolveConflict(int a, int b, int c){
         return a+b;
     }
+
+    public int beforeCheckoutRebase(int a, int b, int c){
+        return a+b;
+    }
 }
