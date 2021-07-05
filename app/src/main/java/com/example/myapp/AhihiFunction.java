@@ -25,7 +25,7 @@ public class AhihiFunction {
         return 4;
     }
 
-    public int rebase5_1(){
+    public int resolved_rebase5(){
         return 4;
     }
 
