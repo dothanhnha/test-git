@@ -33,7 +33,7 @@ public class AhihiFunction {
         return 4;
     }
 
-    public int master_merge1_1(){
+    public int resolved(){
         return 4;
     }
 
