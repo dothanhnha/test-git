@@ -17,4 +17,8 @@ public class AhihiFunction {
         return 4;
     }
 
+    public int master2(){
+        return 4;
+    }
+
 }
