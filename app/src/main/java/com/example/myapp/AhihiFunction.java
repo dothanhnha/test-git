@@ -38,4 +38,8 @@ public class AhihiFunction {
         return 4;
     }
 
+    public int onRebaseBranch(int a, int b, int c){
+        return a+b;
+    }
+
 }
