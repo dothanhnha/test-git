@@ -50,4 +50,8 @@ public class NewFuction {
         return 4;
     }
 
+    public int master_merge1_2(){
+        return 4;
+    }
+
 }
