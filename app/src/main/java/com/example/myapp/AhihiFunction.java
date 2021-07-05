@@ -33,4 +33,8 @@ public class AhihiFunction {
         return 4;
     }
 
+    public int merge2_1(){
+        return 4;
+    }
+
 }
