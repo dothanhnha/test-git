@@ -33,4 +33,9 @@ public class NewFuction {
     public int rebase3(int a, int b, int c){
         return a+b;
     }
+
+    public int master_2(){
+        return 4;
+    }
+
 }
