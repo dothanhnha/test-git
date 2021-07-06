@@ -54,4 +54,8 @@ public class NewFuction {
         return 4;
     }
 
+    public int commitNo1(){
+        return 4;
+    }
+
 }
