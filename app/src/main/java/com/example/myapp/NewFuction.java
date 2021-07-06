@@ -58,4 +58,12 @@ public class NewFuction {
         return 4;
     }
 
+    public int commitNo2(){
+        return 4;
+    }
+
+    public int commitNo2_extension(){
+        return 4;
+    }
+
 }
