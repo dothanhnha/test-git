@@ -12,7 +12,9 @@ public class MainActivity extends AppCompatActivity {
         String a = "amend             commit";
         setContentView(R.layout.activity_main);
     }
-
+    public void commit1(){
+        //ahihi
+    }
 
     public void commit2(){
         //ahihi
